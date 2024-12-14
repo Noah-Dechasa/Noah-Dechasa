@@ -25,26 +25,29 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 ---
 
 ## Featured Projects
-### [1. Tax Transparency and Public Trust Analysis](https://github.com/NoahDechasa/Tax-Transparency)
-- **Description**: Independent study focusing on how variations in tax receipt formats influence trust in government.
-- **Tech Stack**: R, Tableau, Python
-- **Features**:
-  - Analyzed survey data using advanced statistical methods.
-  - Created interactive visualizations to communicate findings.
-
-### [2. Workout App](https://github.com/NoahDechasa/Workout-App)
-- **Description**: A Swift-based app to track workouts, visualize progress, and set fitness goals.
-- **Tech Stack**: SwiftUI, Xcode
-- **Features**:
-  - Interactive progress tracking for muscle groups.
-  - Personalized workout plans with color-coded progress visuals.
-
-### [3. Tire Wear Dashboard](https://github.com/NoahDechasa/Tire-Performance-Analysis)
+### [1. Tire Wear Dashboard](https://github.com/NoahDechasa/Tire-Performance-Analysis)
 - **Description**: Internship project analyzing 30 years of tire performance data.
 - **Tech Stack**: R, Tableau, AWS Athena, SQL
 - **Features**:
-  - Created predictive models for tire wear trends.
-  - Developed interactive dashboards for performance comparison.
+  - Extracted and processed 30+ years of data (~500,000 records).
+  - Developed predictive models for tire wear trends using advanced regression techniques.
+  - Designed interactive dashboards for performance comparison across 1,200+ tire constructions.
+
+### [2. Virtual Stock Exchange Portfolio Management](https://github.com/NoahDechasa/Portfolio-Theory)
+- **Description**: A portfolio management project utilizing advanced analysis techniques.
+- **Tech Stack**: Python, Excel
+- **Features**:
+  - Managed a $1M virtual portfolio, achieving a 6.83% return over 13 weeks.
+  - Conducted risk analysis using covariance matrices and Sharpe ratios.
+  - Created a detailed 15-page report with actionable investment insights.
+
+### [3. Library Management System](https://github.com/NoahDechasa/Library-System)
+- **Description**: Built a dynamic database project to optimize library operations.
+- **Tech Stack**: JavaScript, CSS, SQL
+- **Features**:
+  - Designed a scalable database to track books and patrons.
+  - Integrated overdue notifications and fine calculations for efficient operations.
+  - Developed a user-friendly interface with engaging visuals.
 
 ---
 
