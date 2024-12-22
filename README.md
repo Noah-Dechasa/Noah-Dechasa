@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 
 ### [3. Library Management System]
 - **Description**: Built a dynamic database project to optimize library operations.
-- **Tech Stack**: JavaScript, CSS, SQL
+- **Tech Stack**: JavaScript, CSS, SQL, HTML
 - **Features**:
   - Designed a scalable database to track books and patrons.
   - Integrated overdue notifications and fine calculations for efficient operations.
