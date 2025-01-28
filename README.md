@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 - **Features**:
   - Managed a $1M virtual portfolio, achieving a 6.83% return over 13 weeks.
   - Conducted risk analysis using covariance matrices and Sharpe ratios.
-  - Created a detailed 15-page report with actionable investment insights.
+  - Created a detailed 15-page report with investment insights.
 
 ### 3. Library Management System
 - **Description**: Built a dynamic database project to optimize library operations.
