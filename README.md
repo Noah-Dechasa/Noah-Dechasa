@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 ## Featured Projects
 ### 1. Tire Wear Dashboard
 - **Description**: Internship project analyzing 30 years of tire performance data.
-- **Tech Stack**: R, Tableau,AWS Athena
+- **Tech Stack**: R, Tableau, AWS Athena
 - **Features**:
   - Extracted and processed 30+ years of data (~500,000 records).
   - Developed predictive models for tire wear trends using advanced regression techniques.
