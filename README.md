@@ -34,9 +34,9 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 ## Featured Projects
 
 ### 1. **Tire Wear Dashboard**  
-**🔧 Description**: Analyzed 30 years of tire performance data.  
-**🛠 Tech Stack**: R, Tableau, AWS  
-**📈 Key Features**:  
+**Description**: Analyzed 30 years of tire performance data.  
+**Tech Stack**: R, Tableau, AWS  
+**Key Features**:  
 - 📊 Processed ~500,000 records from 30+ years of data.  
 - 📉 Built predictive models for tire wear trends.  
 - 💻 Designed interactive dashboards to compare 1,200+ tire constructions.
@@ -44,9 +44,9 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 ---
 
 ### 2. **Virtual Stock Exchange Portfolio Management**  
-**💼 Description**: Managed a $1M virtual portfolio with advanced analysis.  
-**🛠 Tech Stack**: Python, Excel  
-**📈 Key Features**:  
+**Description**: Managed a $1M virtual portfolio with advanced analysis.  
+**Tech Stack**: Python, Excel  
+**Key Features**:  
 - 📊 Achieved 6.83% return in 13 weeks.  
 - 📉 Conducted risk analysis (covariance, Sharpe ratio).  
 - 📑 Created a detailed 15-page investment report.
@@ -54,9 +54,9 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 ---
 
 ### 3. **Library Management System**  
-**📚 Description**: Optimized library operations with a dynamic database system.  
-**🛠 Tech Stack**: JavaScript, SQL, HTML, CSS  
-**📈 Key Features**:  
+**Description**: Optimized library operations with a dynamic database system.  
+**Tech Stack**: JavaScript, SQL, HTML, CSS  
+**Key Features**:  
 - 📊 Designed a scalable database for books and patrons.  
 - ⏰ Integrated overdue notifications and fines.  
 - 🎨 Developed a user-friendly, visually engaging interface.
