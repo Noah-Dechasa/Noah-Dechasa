@@ -32,29 +32,35 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 ---
 
 ## Featured Projects
-### 1. Tire Wear Dashboard
-- **Description**: Internship project analyzing 30 years of tire performance data.
-- **Tech Stack**: R, Tableau, AWS.
-- **Features**:
-  - Extracted and processed 30+ years of data (~500,000 records).
-  - Developed predictive models for tire wear trends using advanced regression techniques.
-  - Designed interactive dashboards for performance comparison across 1,200+ tire constructions.
 
-### 2. Virtual Stock Exchange Portfolio Management
-- **Description**: A portfolio management project utilizing advanced analysis techniques.
-- **Tech Stack**: Python, Excel.
-- **Features**:
-  - Managed a $1M virtual portfolio, achieving a 6.83% return over 13 weeks.
-  - Conducted risk analysis using covariance matrices and Sharpe ratios.
-  - Created a detailed 15-page report with investment insights.
+### 1. **Tire Wear Dashboard**  
+**🔧 Description**: Analyzed 30 years of tire performance data.  
+**🛠 Tech Stack**: R, Tableau, AWS  
+**📈 Key Features**:  
+- 📊 Processed ~500,000 records from 30+ years of data.  
+- 📉 Built predictive models for tire wear trends.  
+- 💻 Designed interactive dashboards to compare 1,200+ tire constructions.
 
-### 3. Library Management System
-- **Description**: Built a dynamic database project to optimize library operations.
-- **Tech Stack**: JavaScript, CSS, SQL, HTML.
-- **Features**:
-  - Designed a scalable database to track books and patrons.
-  - Integrated overdue notifications and fine calculations for efficient operations.
-  - Developed a user-friendly interface with engaging visuals.
+---
+
+### 2. **Virtual Stock Exchange Portfolio Management**  
+**💼 Description**: Managed a $1M virtual portfolio with advanced analysis.  
+**🛠 Tech Stack**: Python, Excel  
+**📈 Key Features**:  
+- 📊 Achieved 6.83% return in 13 weeks.  
+- 📉 Conducted risk analysis (covariance, Sharpe ratio).  
+- 📑 Created a detailed 15-page investment report.
+
+---
+
+### 3. **Library Management System**  
+**📚 Description**: Optimized library operations with a dynamic database system.  
+**🛠 Tech Stack**: JavaScript, SQL, HTML, CSS  
+**📈 Key Features**:  
+- 📊 Designed a scalable database for books and patrons.  
+- ⏰ Integrated overdue notifications and fines.  
+- 🎨 Developed a user-friendly, visually engaging interface.
+
 
 ---
 
