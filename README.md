@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 ---
 
 ## Contact Me
-- 📧 Email: [noah.dechasa77@gmail.com](mailto:noah.dechasa77@gmail.com)
+- 📧 Email: [noahdechasa77@gmail.com](mailto:noahdechasa77@gmail.com)
 - 🌐 Portfolio: Working on it. [noahdechasa.com](https://noahdechasa.com)
 - 💼 LinkedIn: [www.linkedin.com/in/noah-dechasa-9184b8254]
 
