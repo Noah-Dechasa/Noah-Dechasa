@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **double major in Economics and Data Science** at the College of Wooster, passionate about solving real-world problems through data-driven insights and innovative solutions. Whether it's developing interactive dashboards, analyzing complex datasets, or building intuitive web and mobile applications, I enjoy tackling challenging projects that make an impact.
 
----
+----------------
 
 ## About Me
 - 🌍 From **Addis Ababa, Ethiopia** and pursuing my studies in the U.S.
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 - 🌟 Interests: Data-driven decision-making, app development, and exploring the intersection of economics and technology.
 - 💡 Building innovative apps and websites in my spare time.
 
----
+----------------
 
 ## Key Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
+----------------
 
 ## Featured Projects
 
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 - 📉 Built predictive models for tire wear trends.  
 - 💻 Designed interactive dashboards to compare 1,200+ tire constructions.
 
----
+----------------
 
 ### 2. **Virtual Stock Exchange Portfolio Management**  
 **Description**: Managed a $1M virtual portfolio with advanced analysis.  
