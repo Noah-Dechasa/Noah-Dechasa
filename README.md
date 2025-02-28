@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 - 📉 Built predictive models for tire wear trends.  
 - 💻 Designed interactive dashboards to compare 1,200+ tire constructions.
 
-----------------
+---
 
 ### 2. **Virtual Stock Exchange Portfolio Management**  
 **Description**: Managed a $1M virtual portfolio with advanced analysis.  
