@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 - 🌟 Interests: Data-driven decision-making, app development, and exploring the intersection of economics and technology.
 - 💡 Building innovative apps and websites in my spare time.
 
-----------------
+-----------------
 
 ## Key Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
