@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **double major in Economics and Data Science** at the College of Wooster, passionate about solving real-world problems through data-driven insights and innovative solutions. Whether it's developing interactive dashboards, analyzing complex datasets, or building intuitive web and mobile applications, I enjoy tackling challenging projects that make an impact.
 
------------------
+------------------
 
 ## About Me
 - 🌍 From **Addis Ababa, Ethiopia** and pursuing my studies in the U.S.
