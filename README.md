@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **double major in Economics and Data Science
 
 ## About Me
 - 🌍 From **Addis Ababa, Ethiopia** and pursuing my studies in the U.S.
-- 🎓 Currently working on a **Senior Independent Study** exploring the intersection of public trust and tax transparency.
+- 🎓 Completed a **Senior Independent Study** examining the impact of tax receipt transparency on public trust in government
 - 🛠️ Experienced in **data analysis**, **statistical modeling**, **web development**, and **visualization tools**.
 - 🌟 Interests: Data-driven decision-making, app development, and exploring the intersection of economics and technology.
 - 💡 Building apps and websites in my spare time.
