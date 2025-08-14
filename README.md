@@ -43,10 +43,13 @@ With a strong foundation in data analysis, statistical modeling, and web develop
 ### 2. **Virtual Stock Exchange Portfolio Management**  
 **Description**: Managed a $1M virtual portfolio with advanced analysis.  
 **Tech Stack**: Python, Excel  
+
 ---
+
 ### 3. **Library Management System**  
 **Description**: Optimized library operations with a dynamic database system.  
 **Tech Stack**: JavaScript, SQL, HTML, CSS  
+
 ---
 
 ## Contact Me
