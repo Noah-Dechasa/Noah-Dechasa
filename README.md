@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Noah Dechasa
+# Hi there! 👋 I'm Noah Dechasa.
 
-Welcome to my GitHub profile! I'm a **double major in Economics and Data Science** at the College of Wooster, passionate about solving real-world problems through data-driven insights and innovative solutions. Whether it's developing interactive dashboards, analyzing complex datasets, or building intuitive web and mobile applications, I enjoy tackling challenging projects that make an impact.
+I recently graduated with a double major in Economics and Data Science from the College of Wooster. I'm passionate about solving real-world problems through data-driven insights and innovative solutions. Whether it's developing interactive dashboards, analyzing complex datasets, or building intuitive web and mobile applications, I enjoy tackling challenging projects that make an impact.
 
 ------------------
 
