@@ -1,11 +1,13 @@
 # Hi there! 👋 I'm Noah Dechasa.
 
-I recently graduated with a double major in Economics and Data Science from the College of Wooster. I'm passionate about solving real-world problems through data-driven insights and innovative solutions. Whether it's developing interactive dashboards, analyzing complex datasets, or building intuitive web and mobile applications, I enjoy tackling challenging projects that make an impact.
+As a recent graduate with a double major in Economics and Data Science from the College of Wooster, I bring a unique perspective to data-driven problem-solving. My senior independent study on the impact of tax receipt transparency in government honed my skills in research and statistical analysis.
+
+With a strong foundation in data analysis, statistical modeling, and web development, I'm focused on creating innovative applications and visualizations that bridge the gap between economics and technology. I am actively seeking opportunities to contribute to challenging projects and make an impact.
 
 ------------------
 
 ## About Me
-- 🌍 From **Addis Ababa, Ethiopia** and pursuing my studies in the U.S.
+- 🌍 From **Addis Ababa, Ethiopia** and now based in the U.S.
 - 🎓 Completed a **Senior Independent Study** examining the impact of tax receipt transparency on public trust in government
 - 🛠️ Experienced in **data analysis**, **statistical modeling**, **web development**, and **visualization tools**.
 - 🌟 Interests: Data-driven decision-making, app development, and exploring the intersection of economics and technology.
@@ -36,32 +38,15 @@ I recently graduated with a double major in Economics and Data Science from the 
 ### 1. **Tire Wear Dashboard**  
 **Description**: Analyzed 30 years of tire performance data.  
 **Tech Stack**: R, Tableau, AWS  
-**Key Features**:  
-- 📊 Processed ~500,000 records from 30+ years of data.  
-- 📉 Built predictive models for tire wear trends.  
-- 💻 Designed interactive dashboards to compare 1,200+ tire constructions.
 
 ---
-
 ### 2. **Virtual Stock Exchange Portfolio Management**  
 **Description**: Managed a $1M virtual portfolio with advanced analysis.  
 **Tech Stack**: Python, Excel  
-**Key Features**:  
-- 📊 Achieved 6.83% return in 13 weeks.  
-- 📉 Conducted risk analysis (covariance, Sharpe ratio).  
-- 📑 Created a detailed 15-page investment report.
-
 ---
-
 ### 3. **Library Management System**  
 **Description**: Optimized library operations with a dynamic database system.  
 **Tech Stack**: JavaScript, SQL, HTML, CSS  
-**Key Features**:  
-- 📊 Designed a scalable database for books and patrons.  
-- ⏰ Integrated overdue notifications and fines.  
-- 🎨 Developed a user-friendly, visually engaging interface.
-
-
 ---
 
 ## Contact Me
