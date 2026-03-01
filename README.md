@@ -2,7 +2,7 @@
 
 As a recent graduate with a double major in Economics and Data Science from the College of Wooster.
 
-I a strong foundation in data analysis, statistical modeling, and web development, I'm focused on creating innovative applications and visualizations that bridge the gap between economics and technology. I am actively seeking opportunities to contribute to challenging projects and make an impact.
+I have a strong foundation in data analysis, statistical modeling, and web development, I'm focused on creating innovative applications and visualizations that bridge the gap between economics and technology. I am actively seeking opportunities to contribute to challenging projects and make an impact.
 
 ------------------
 
