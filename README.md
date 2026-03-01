@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Noah Dechasa.
 
-As a recent graduate with a double major in Economics and Data Science from the College of Wooster, I bring a unique perspective to data-driven problem-solving. My senior independent study on the impact of tax receipt transparency in government honed my skills in research and statistical analysis.
+As a recent graduate with a double major in Economics and Data Science from the College of Wooster.
 
-With a strong foundation in data analysis, statistical modeling, and web development, I'm focused on creating innovative applications and visualizations that bridge the gap between economics and technology. I am actively seeking opportunities to contribute to challenging projects and make an impact.
+I a strong foundation in data analysis, statistical modeling, and web development, I'm focused on creating innovative applications and visualizations that bridge the gap between economics and technology. I am actively seeking opportunities to contribute to challenging projects and make an impact.
 
 ------------------
 
